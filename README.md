@@ -3,6 +3,14 @@
 # Brain33
 ---
 
+## Brain33 v4.3
+
+![Brain33 V4.3](https://raw.githubusercontent.com/Pymmdrza/Brain33/refs/heads/mainx/media/brain33-v4.3.0.png 'Brain33')
+
+Download Latest Version Brain33 : [Release `Brain v4.3`](https://github.com/Pymmdrza/Brain33/releases/tag/v4.3)
+
+---
+
 ### Brain33 V3.0.1
 
 ![](https://raw.githubusercontent.com/Pymmdrza/Brain33/mainx/media/brain33_v3_s.gif)
