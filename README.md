@@ -7,6 +7,9 @@
 
 ![Brain33 V4.3](https://raw.githubusercontent.com/Pymmdrza/Brain33/refs/heads/mainx/media/brain33-v4.3.0.png 'Brain33')
 
+>[!NOTE]
+>Password File: `Mmdrza.Com`
+
 Download Latest Version Brain33 : [Release `Brain v4.3`](https://github.com/Pymmdrza/Brain33/releases/tag/v4.3)
 
 ---
