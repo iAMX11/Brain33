@@ -104,7 +104,7 @@ after installing package's needed to Alphabet Word list or Password list or ... 
 
 [+] Telegram Official Channel [@Cryptoixer](https://cryptoixer.t.me)
 
-[+] Programmer & Owner Telegram ID [@MrPyMmdrza](https://MrPyMmdrza.t.me)
+[+] Programmer & Owner Telegram ID [@Mr1Mmdrza](https://Mr1Mmdrza.t.me)
 
 [+] Email : PyMmdrza@Gmail.com
 
